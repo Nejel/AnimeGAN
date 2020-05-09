@@ -24,22 +24,28 @@ Based on https://github.com/TachibanaYoshino/AnimeGAN
 3. Put new images into dataset/test/real
 4. Don't forget to install requirements and then execute:
 
-```python
+```
 python test.py --checkpoint_dir checkpoint/ --test_dir dataset/test/real --style_name H
 ```
 
 ____  
 ## Results  
 
-### Before
+#### Before
+![](https://github.com/Nejel/AnimeGAN/blob/master/doc/nekit_before.JPG) 
+
+#### After
+![](https://github.com/Nejel/AnimeGAN/blob/master/doc/nekit_after.JPG) 
+
+#### Before
 ![](https://github.com/Nejel/AnimeGAN/blob/master/doc/ussr_irl.jpg) 
 
-### After
+#### After
 ![](https://github.com/Nejel/AnimeGAN/blob/master/doc/ussr_in_anime.jpg)  
 
-### Before
+#### Before
 ![](https://github.com/Nejel/AnimeGAN/blob/master/doc/shotakot_before.jpg) 
 
-### After
+#### After
 ![](https://github.com/Nejel/AnimeGAN/blob/master/doc/shotakot_after.jpg)  
  
