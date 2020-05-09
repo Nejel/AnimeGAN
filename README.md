@@ -32,6 +32,12 @@ ____
 ## Results  
 
 ### Before
+![](https://github.com/Nejel/AnimeGAN/blob/master/doc/ussr_irl.jpg) 
+
+### After
+![](https://github.com/Nejel/AnimeGAN/blob/master/doc/ussr_in_anime.jpg)  
+
+### Before
 ![](https://github.com/Nejel/AnimeGAN/blob/master/doc/shotakot_before.jpg) 
 
 ### After
